@@ -1,8 +1,8 @@
 name: popup_windows
-description: A new Flutter package project.
+description: like Android's PopupWindos
 version: 0.0.1
 author: lmy_77
-homepage:
+homepage: https://github.com/believe777/popup_windows
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
