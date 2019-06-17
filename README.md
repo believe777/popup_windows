@@ -8,7 +8,7 @@
 popup_windows:^0.0.1
 
 # 使用栗子
-
+```dart
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -66,5 +66,6 @@ class _MyHomePageState extends State<MyHomePage> {
       )),
     );
   }
-
+}
+```
 ## 具体参数含义已在代码中备注
