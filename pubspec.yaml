@@ -1,7 +1,7 @@
 name: popup_windows
 description: like Android's PopupWindos
 version: 0.0.1
-author: lmy_77
+author: lmy_77 <wensong781@gmail.com>
 homepage: https://github.com/believe777/popup_windows
 
 environment:
